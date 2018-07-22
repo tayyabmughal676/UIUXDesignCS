@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIUXDesignCS</string>
+    <string name="emailheader">Email</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="remeber_me">REMEBER ME</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="agree_to_our_terms_and_condition">Agree to our terms and Condition</string>
+    <string name="already_have_any_account">Already have any Account ?</string>
+    <string name="sgin_up">SGIN UP</string>
+    <string name="don_t_have_any_account">Don\'t have any Account ?</string>
+</resources>
